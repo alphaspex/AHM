@@ -1,0 +1,34 @@
+@import "tailwindcss";
+
+:root {
+  font-family: 'Cairo', 'Plus Jakarta Sans', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+  scroll-behavior: smooth;
+  --ahm-bg-base: #020d15;
+  --ahm-bg-surface: #061c2b;
+  --ahm-bg-card: #09253a;
+  --ahm-emerald: #00d26a;
+  --ahm-emerald-light: #1df27f;
+  --ahm-cyan: #00b4d8;
+  --ahm-cyan-glow: #38bdf8;
+  --ahm-border: #0e3752;
+}
+
+body {
+  font-family: 'Cairo', system-ui, sans-serif;
+  background-color: var(--ahm-bg-base);
+  color: #f1f5f9;
+}
+
+/* Islamic Geometric Star Pattern Overlay */
+.islamic-pattern {
+  background-image: radial-gradient(circle at 10% 20%, rgba(0, 210, 106, 0.05) 0%, transparent 40%),
+    radial-gradient(circle at 90% 80%, rgba(0, 180, 216, 0.06) 0%, transparent 50%);
+}
+
+.glow-emerald {
+  box-shadow: 0 0 25px -5px rgba(0, 210, 106, 0.25);
+}
+
+.glow-cyan {
+  box-shadow: 0 0 25px -5px rgba(0, 180, 216, 0.25);
+}

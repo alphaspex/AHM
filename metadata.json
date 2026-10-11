@@ -1,0 +1,6 @@
+{
+  "name": "AHM — السوق الجزائري الأمين",
+  "description": "بيئة تجارية متوازنة تضمن حق التاجر وتوفر تسوق آمن ومريح للمشتري في الجزائر مع حماية هامش الربح ونظام مصداقية متطور.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
