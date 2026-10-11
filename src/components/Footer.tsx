@@ -34,7 +34,7 @@ export const Footer: React.FC = () => {
         {/* Quiet disclaimer and copyright */}
         <div className="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4 text-xs text-[#94a3b8]">
           <p>
-            منصة AHM — بيئة تجارية متوازنة تضمن حق التاجر وتوفر تسوق آمن ومريح للمشتري عبر كافة ولايات الجزائر الـ 58.
+            منصة AHM — بيئة تجارية متوازنة تضمن حق التاجر وتوفر تسوق آمن ومريح للمشتري عبر كافة ولايات الجزائر الـ 69.
           </p>
           <div className="flex items-center gap-4 text-[#00b4d8] font-mono">
             <span>© {new Date().getFullYear()} AHM Marketplace DZ</span>

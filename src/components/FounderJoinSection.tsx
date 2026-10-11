@@ -96,7 +96,7 @@ export const FounderJoinSection: React.FC = () => {
               />
             </div>
 
-            {/* Wilaya (58 Algerian Wilayas) */}
+            {/* Wilaya (69 Algerian Wilayas) */}
             <div className="space-y-1.5">
               <label className="text-xs font-semibold text-[#cbd5e1] flex items-center gap-1.5">
                 <MapPin className="w-3.5 h-3.5 text-[#00b4d8]" />

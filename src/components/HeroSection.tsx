@@ -46,7 +46,7 @@ export const HeroSection: React.FC<HeroSectionProps> = ({ onJoinClick }) => {
           </div>
           <span className="font-bold">AHM — السوق الجزائري الأمين</span>
           <span aria-hidden="true" className="text-[#0e3752]">·</span>
-          <span className="text-[#94a3b8]">التجارة الإلكترونية العادلة في 58 ولاية</span>
+          <span className="text-[#94a3b8]">التجارة الإلكترونية العادلة في 69 ولاية</span>
         </div>
 
         <div className="grid grid-cols-1 lg:grid-cols-12 gap-12 lg:gap-8 items-center">
@@ -177,7 +177,7 @@ export const HeroSection: React.FC<HeroSectionProps> = ({ onJoinClick }) => {
                 </div>
                 <div className="flex items-center gap-1.5 text-xs text-[#94a3b8] font-mono">
                   <CheckCircle2 className="w-4 h-4 text-[#00d26a]" />
-                  <span>58 ولاية</span>
+                  <span>69 ولاية</span>
                 </div>
               </div>
 
